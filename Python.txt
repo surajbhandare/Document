@@ -1,0 +1,42 @@
+PYTHON
+
+1. Syntax Print
+- Print ("XYZ")
+
+2. Python Indentation
+-  How to look 
+
+3. Python Comments
+- Comment the code which is you want to use after 
+ 	Start with "#" This is a comment
+
+4. Python Variables
+- A variable is created the moment you first assign a value to it.
+- A variable name must start with a letter or the underscore character
+- A variable name cannot start with a number
+- A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+- Variable names are case-sensitive (age, Age and AGE are three different variables)
+- Remember that variable names are case-sensitive
+	Name = "Suraj"
+	Age = "27"
+	print(Name)
+	print(Age)
+	
+	Name and Age is variables
+
+
+5. Python Data Types
+- Type is the variable storage of the variable
+- Example of Type
+	Text Type		str
+	Numeric Types	int, float, complex
+	Sequence Types	list, tuple, range
+	Mapping Type	dict
+	Set Types		set, frozenset
+	Boolean Type	bool
+	Binary Types	bytes, bytearray, memoryview	
+
+For eg:- 
+	x= range(20)
+	print(x)
+	print(type(x))
