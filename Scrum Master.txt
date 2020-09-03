@@ -15,3 +15,4 @@ C. Scrum Artifacts:- it is includes PRODUCTS BACKLOG, SPRINT BACKLOG, AND PRODUC
 	2. Sprint Backlog:- Product backlog list need to be work on during sprint.(Based on skill,priority)
 	3. Burndown chart:- Graphical Representing of estimated remaining work
 	4. Product Increments:- It is the completed work in a sprint and combine the work completed in previous sprint.
+hello suraj
